@@ -4,10 +4,10 @@
     "subjectLine": "з дисципліни «WEB-ОРІЄНТОВАНІ ТЕХНОЛОГІЇ. BACKEND РОЗРОБКИ»"
   },
   "student": {
-    "fullName": "Прізвище Ім’я По батькові",
-    "group": "Іx-xx",
+    "fullName": "Вінницький Герман Романович",
+    "group": "ІA-34",
     "gender": "male",
-    "photo": "/students/chad.jpg"
+    "photo": "/students/1.jpg"
   },
   "toc": {
     "minDepth": 2,
